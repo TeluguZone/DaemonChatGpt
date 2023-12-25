@@ -29,7 +29,7 @@ async def start_message(c,m):
                         InlineKeyboardButton('⚡,BACKUP CHANNEL', url='https://t.me/TeluguZoneofc')
                     ],  
                     [
-                        InlineKeyboardButton("MY Father", url='https://t.me/daemon990'),
+                        InlineKeyboardButton("MY Father 🧎‍♂️", url='https://t.me/daemon990'),
                         InlineKeyboardButton("🤖 ᴜᴘᴅᴀᴛᴇ", url='https://t.me/teluguzone0')
                     ]
                 ]
